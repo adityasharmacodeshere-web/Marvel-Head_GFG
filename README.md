@@ -21,12 +21,12 @@ README.md
 ## Run locally
 Open `index.html` directly, or run `npx serve .` and visit the URL it prints.
 
-Live demo: `[Add GitHub Pages URL]`
+Live demo: `https://adityasharmacodeshere-web.github.io/Marvel-Head_GFG/`
 
-Screenshots: `[Add desktop screenshot]` `[Add mobile screenshot]`
+
 
 ## Credits and resources
 - Google Fonts: Bebas Neue, Sora, Orbitron
 - Font Awesome icons
-- Moai hull artwork: `[Add source/credit]`
-- Author: Aadi
+- Moai hull artwork: `[Free to use image by gfg website ]`
+- Author: Aditya
